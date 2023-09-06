@@ -68,6 +68,7 @@ https://developer.android.com/training/ ... g?hl=pt-br
 https://developer.android.com/guide/top ... s?hl=pt-br
 https://developer.android.com/guide/top ... s?hl=pt-br
 https://developer.android.com/guide/top ... s?hl=pt-br
+https://github.com/googlemaps/android-maps-utils
 
 Bibliotecas:
 https://pub.dev/packages/home_widget
@@ -184,6 +185,7 @@ implementation 'com.squareup.picasso:picasso:2.8'
 implementation 'com.google.android.gms:play-services-maps:18.1.0'
 implementation 'androidx.camera:camera-core:1.2.2'
 implementation 'com.squareup.picasso:picasso:2.71828'
+implementation("com.google.maps.android:android-maps-utils:3.5.3")
 
 Gradle (project)
 "com.google.gms.google-services" version "4.3.15"
