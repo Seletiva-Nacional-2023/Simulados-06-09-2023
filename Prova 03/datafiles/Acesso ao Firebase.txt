@@ -1,0 +1,8 @@
+olimpiadassenai08@gmail.com
+OlimpiadasSenai08
+
+
+Criar projeto de app Messaging com o padrão:
+Simulado_DR 
+
+Colocar a sigla de seu DR no sufixo do app, exemplo: Simulado_AL 
